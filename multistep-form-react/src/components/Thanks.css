@@ -1,0 +1,34 @@
+.thanks-container{
+    text-align: center;
+
+}
+.thanks-container h2{
+    margin-bottom: 1rem;
+}
+
+.thanks-container p{
+    font-size: .9rem;
+    margin-bottom: 1rem;
+}
+
+.thanks-container h4{
+    margin-bottom: 1rem 0;
+    padding: 2rem;
+}
+
+.review-data{
+    text-align: left;
+
+}
+
+.review-data svg {
+    margin-left: 5px;
+
+}
+
+.review-data span {
+    font-weight: bold;
+    
+
+    
+}
